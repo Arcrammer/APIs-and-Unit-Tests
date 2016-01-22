@@ -1,0 +1,15 @@
+{
+  "name": "apis-and-unit-tests",
+  "version": "1.0.0",
+  "description": "API's and Unit Tests for Chris Chapman, professor of the Deployment of Web Applications course at Full Sail University",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test-all"
+  },
+  "author": "Alexander Rhett Crammer",
+  "license": "MIT"
+}
